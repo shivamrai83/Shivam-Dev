@@ -9460,7 +9460,12 @@ textarea.form-control {
       text-transform: uppercase;
       letter-spacing: 1px;
       font-weight: 600; }
-
+.linkedin-button {
+  margin-left: 8px;
+}
+.buttons-div {
+  display: -webkit-inline-box;
+  }
 /* Blog*/
 .post-info {
   font-size: 12px;
